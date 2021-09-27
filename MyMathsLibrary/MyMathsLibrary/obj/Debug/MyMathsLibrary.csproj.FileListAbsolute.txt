@@ -1,0 +1,7 @@
+U:\Unit 29\dlls\MyMathsLibrary\MyMathsLibrary\MyMathsLibrary\bin\Debug\MyMathsLibrary.xml
+U:\Unit 29\dlls\MyMathsLibrary\MyMathsLibrary\MyMathsLibrary\bin\Debug\MyMathsLibrary.dll
+U:\Unit 29\dlls\MyMathsLibrary\MyMathsLibrary\MyMathsLibrary\bin\Debug\MyMathsLibrary.pdb
+U:\Unit 29\dlls\MyMathsLibrary\MyMathsLibrary\MyMathsLibrary\obj\Debug\MyMathsLibrary.csprojAssemblyReference.cache
+U:\Unit 29\dlls\MyMathsLibrary\MyMathsLibrary\MyMathsLibrary\obj\Debug\MyMathsLibrary.csproj.CoreCompileInputs.cache
+U:\Unit 29\dlls\MyMathsLibrary\MyMathsLibrary\MyMathsLibrary\obj\Debug\MyMathsLibrary.dll
+U:\Unit 29\dlls\MyMathsLibrary\MyMathsLibrary\MyMathsLibrary\obj\Debug\MyMathsLibrary.pdb

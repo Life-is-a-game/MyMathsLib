@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMathsLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:MyMathsLibrary.MathMagic">
+            <summary>
+            This library performs basic math functions
+            </summary>
+        </member>
+        <member name="M:MyMathsLibrary.MathMagic.Add(System.Collections.Generic.List{System.Double})">
+            <summary>
+            This function performs an addition calculation
+            </summary>
+        </member>
+        <member name="M:MyMathsLibrary.MathMagic.Subtract(System.Collections.Generic.List{System.Double})">
+            <summary>
+            This function performs a subtraction calculation
+            </summary>
+        </member>
+        <member name="M:MyMathsLibrary.MathMagic.Multiply(System.Collections.Generic.List{System.Double})">
+            <summary>
+            This function performs a multiplication calculation
+            </summary>
+        </member>
+        <member name="M:MyMathsLibrary.MathMagic.Divide(System.Collections.Generic.List{System.Double})">
+            <summary>
+            This function performs a division calculation
+            </summary>
+        </member>
+        <member name="M:MyMathsLibrary.MathMagic.Remainder(System.Double,System.Double)">
+            <summary>
+            This function performs a division calculation and then calculates the remainder
+            </summary>
+        </member>
+        <member name="M:MyMathsLibrary.MathMagic.Pow(System.Double,System.Double)">
+            <summary>
+            This function takes a number - val1, and raises it to the power of the exponent - val2.
+            </summary>
+        </member>
+        <member name="M:MyMathsLibrary.MathMagic.Square(System.Double)">
+            <summary>
+            This function squares a given number
+            </summary>
+        </member>
+        <member name="M:MyMathsLibrary.MathMagic.Cube(System.Double)">
+            <summary>
+            This function cubes a given number
+            </summary>
+        </member>
+        <member name="M:MyMathsLibrary.MathMagic.Sqrt(System.Double)">
+            <summary>
+            This function performs a sqrt calculation
+            </summary>
+        </member>
+        <member name="M:MyMathsLibrary.MathMagic.Rounding(System.Double)">
+            <summary>
+            This function rounds the number to the nearest integer.
+            </summary>
+        </member>
+        <member name="M:MyMathsLibrary.MathMagic.RemoveDecimals(System.Double)">
+            <summary>
+            This function removes everything after the decimal point
+            </summary>
+        </member>
+    </members>
+</doc>
